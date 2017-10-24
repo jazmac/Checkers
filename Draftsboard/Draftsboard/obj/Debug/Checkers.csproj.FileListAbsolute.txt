@@ -1,0 +1,6 @@
+C:\Users\JazMac\source\repos\Draftsboard\Draftsboard\bin\Debug\Draftsboard.exe.config
+C:\Users\JazMac\source\repos\Draftsboard\Draftsboard\bin\Debug\Draftsboard.exe
+C:\Users\JazMac\source\repos\Draftsboard\Draftsboard\bin\Debug\Draftsboard.pdb
+C:\Users\JazMac\source\repos\Draftsboard\Draftsboard\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\JazMac\source\repos\Draftsboard\Draftsboard\obj\Debug\Draftsboard.exe
+C:\Users\JazMac\source\repos\Draftsboard\Draftsboard\obj\Debug\Draftsboard.pdb
