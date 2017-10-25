@@ -1,0 +1,14 @@
+C:\Users\JazMac\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\JazMac\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\JazMac\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\JazMac\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Checkers.csprojResolveAssemblyReference.cache
+C:\Users\JazMac\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\JazMac\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\JazMac\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\JazMac\source\repos\Checkers\Checkers\bin\Debug\ConsoleApp1.exe.config
+C:\Users\JazMac\source\repos\Checkers\Checkers\bin\Debug\ConsoleApp1.exe
+C:\Users\JazMac\source\repos\Checkers\Checkers\bin\Debug\ConsoleApp1.pdb
+C:\Users\JazMac\source\repos\Checkers\Checkers\obj\Debug\Checkers.csprojResolveAssemblyReference.cache
+C:\Users\JazMac\source\repos\Checkers\Checkers\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\JazMac\source\repos\Checkers\Checkers\obj\Debug\ConsoleApp1.exe
+C:\Users\JazMac\source\repos\Checkers\Checkers\obj\Debug\ConsoleApp1.pdb
