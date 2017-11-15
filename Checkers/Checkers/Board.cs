@@ -11,12 +11,12 @@ namespace ConsoleApp1
         private string[,] board1;
         public const int dimensions = 8; // 8*8 game board
 
-        private Pieces checker;
+        private Pieces checkers;
         private Moves move;
 
         public Board() //The "assets" used to construct the game board.
         {
-            checker = new Pieces();
+            checkers = new Pieces();
             move = new Moves();
             board1 = new string[dimensions, dimensions];
             BoardHoriz = "+---";
@@ -27,10 +27,10 @@ namespace ConsoleApp1
 
         public void displayBoard()
         {
-            //while(!move.Close)
-            //{
-                Console.Clear(); //Clears the console screen after each move.
-                Console.WriteLine("    A   B   C   D   E   F   G   H");
+            while(!move.Close)
+            {
+              
+                Console.WriteLine("    0   1   2   3   4   5   6   7");
             
                 for(int i = 0; i < dimensions; i++)
                 {
@@ -59,8 +59,11 @@ namespace ConsoleApp1
             }
 
             Console.Write("+\n\n");
-            //}
-            Console.ReadKey();
+            move.Player1MovePiece();
+            displayBoard();
+            move.Player2MovePiece();
+            }
+          
         }
 
     }
