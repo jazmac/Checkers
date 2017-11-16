@@ -32,3 +32,17 @@ I:\Checkers\Checkers\obj\Debug\Checkers.csprojResolveAssemblyReference.cache
 I:\Checkers\Checkers\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
 I:\Checkers\Checkers\obj\Debug\ConsoleApp1.exe
 I:\Checkers\Checkers\obj\Debug\ConsoleApp1.pdb
+C:\Users\-Nessy\Desktop\Checkers\Checkers\bin\Debug\ConsoleApp1.exe.config
+C:\Users\-Nessy\Desktop\Checkers\Checkers\bin\Debug\ConsoleApp1.exe
+C:\Users\-Nessy\Desktop\Checkers\Checkers\bin\Debug\ConsoleApp1.pdb
+C:\Users\-Nessy\Desktop\Checkers\Checkers\obj\Debug\Checkers.csprojResolveAssemblyReference.cache
+C:\Users\-Nessy\Desktop\Checkers\Checkers\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\-Nessy\Desktop\Checkers\Checkers\obj\Debug\ConsoleApp1.exe
+C:\Users\-Nessy\Desktop\Checkers\Checkers\obj\Debug\ConsoleApp1.pdb
+C:\Users\JazMac\Desktop\Checkers Project\Checkers\Checkers\bin\Debug\ConsoleApp1.exe.config
+C:\Users\JazMac\Desktop\Checkers Project\Checkers\Checkers\bin\Debug\ConsoleApp1.exe
+C:\Users\JazMac\Desktop\Checkers Project\Checkers\Checkers\bin\Debug\ConsoleApp1.pdb
+C:\Users\JazMac\Desktop\Checkers Project\Checkers\Checkers\obj\Debug\Checkers.csprojResolveAssemblyReference.cache
+C:\Users\JazMac\Desktop\Checkers Project\Checkers\Checkers\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\JazMac\Desktop\Checkers Project\Checkers\Checkers\obj\Debug\ConsoleApp1.exe
+C:\Users\JazMac\Desktop\Checkers Project\Checkers\Checkers\obj\Debug\ConsoleApp1.pdb

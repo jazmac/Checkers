@@ -1,0 +1,7 @@
+C:\Users\JazMac\Desktop\Checkers Project\Checkers\Checkers\bin\Release\ConsoleApp1.exe.config
+C:\Users\JazMac\Desktop\Checkers Project\Checkers\Checkers\bin\Release\ConsoleApp1.exe
+C:\Users\JazMac\Desktop\Checkers Project\Checkers\Checkers\bin\Release\ConsoleApp1.pdb
+C:\Users\JazMac\Desktop\Checkers Project\Checkers\Checkers\obj\Release\Checkers.csprojResolveAssemblyReference.cache
+C:\Users\JazMac\Desktop\Checkers Project\Checkers\Checkers\obj\Release\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\JazMac\Desktop\Checkers Project\Checkers\Checkers\obj\Release\ConsoleApp1.exe
+C:\Users\JazMac\Desktop\Checkers Project\Checkers\Checkers\obj\Release\ConsoleApp1.pdb
